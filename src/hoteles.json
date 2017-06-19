@@ -1,0 +1,167 @@
+[
+  {
+    "nombre": "Deauville Beach Resort",
+    "rate": 5,
+    "precio": "ARS 1.240",
+    "imagen": "https://exp.cdn-hotels.com/hotels/1000000/20000/18900/18816/216aa97a_z.jpg",
+    "direccion": "6701 Collins Ave, Miami, FL 33141, Estados Unidos",
+    "opiniones": {
+      "cantidad": 390,
+      "promedio": 3,
+      "ranking": 1.267,
+      "totalRanking": 1.807,
+      "categoria": "Hoteles en Miami",
+      "opiniones": [
+            {
+              "urlPerfil": "https://media-cdn.tripadvisor.com/media/photo-f/05/f3/6e/e6/charlykawa.jpg",
+              "rate": 5,
+              "fecha": "14 feb 2016",
+              "resumen": "\"Gran Hotel\"",
+              "frase": "La ubicación del hotel es muy buena y fácil de encontrar"
+            }
+          ]
+    },
+    "soloHab": { "icono":"bed", "label":"Sólo la habitación" },
+    "caracteristicas": [ { "icono":"wifi", "label":"Internet" }, { "icono":"coffee", "label":"Desayuno" },
+                         { "icono":"car", "label":"Estacionamiento" }, { "icono":"paw", "label":"Permite mascotas" },
+                         { "icono":"unlock", "label":"Caja de seguridad" }, { "icono":"glass", "label":"Bar" } ],
+    "checkIn":"15:00 hs",
+    "checkOut":"12:00 hs",
+    "ubicacion": {
+      "latitud": 25.850771,
+      "longitud": -80.1203807
+    }
+  },
+  {
+    "nombre": "Hamptons Inn & Suites Miami",
+    "rate": 4,
+    "precio": "ARS 2.222",
+    "imagen": "https://media-cdn.tripadvisor.com/media/photo-s/02/28/6c/c9/hotel-von-aussen.jpg",
+    "direccion": "50 SW 12th St, Miami, FL 33130, Estados Unidos",
+    "opiniones": {
+      "cantidad": 931,
+      "promedio": 5,
+      "ranking": 832,
+      "totalRanking": 1.807,
+      "categoria": "Hoteles en Miami",
+      "opiniones": [
+            {
+              "urlPerfil": "https://media-cdn.tripadvisor.com/media/photo-l/0f/02/03/33/juliana-p.jpg",
+              "rate": 5,
+              "fecha": "17 mar 2017",
+              "resumen": "\"UN HOSPEDAJE INOLVIDABLE\"",
+              "frase": "Un gran hotel temático de diferentes compositores de música clasica... para recomendar, con habitaciones muy confortables teclados digitales, excelente desayuno y excelente atención en general. Repetiriamos la visita sin dudarlo"
+            }
+          ]
+    },
+    "soloHab": { "icono":"bed", "label":"Sólo la habitación" },
+    "caracteristicas": [ { "icono":"wifi", "label":"Internet" }, { "icono":"coffee", "label":"Desayuno" },
+                         { "icono":"car", "label":"Estacionamiento" }, { "icono":"paw", "label":"Permite mascotas" },
+                         { "icono":"unlock", "label":"Caja de seguridad" }, { "icono":"glass", "label":"Bar" } ],
+    "checkIn":"13:00 hs",
+    "checkOut":"11:00 hs",
+    "ubicacion": {
+      "latitud": 25.7624282,
+      "longitud": -80.1943337
+    }
+  },
+  {
+    "nombre": "Hotel Cabana Miami Beach Luxury",
+    "rate": 5,
+    "precio": "ARS 3.949",
+    "imagen": "https://images.oyster.com/photos/double-queen-junior-suite-with-oceanfron--v7211068-w902.jpg",
+    "direccion": "6261 Collins Ave, Miami Beach, FL 33140, Estados Unidos",
+    "opiniones": {
+      "cantidad": 150,
+      "promedio": 4,
+      "ranking": 150,
+      "totalRanking": 1.807,
+      "categoria": "Hoteles en Miami",
+      "opiniones": [
+            {
+              "urlPerfil": "https://media-cdn.tripadvisor.com/media/photo-l/0a/73/73/ba/loreto-v.jpg",
+              "rate": 4,
+              "fecha": "25 mar 2015",
+              "resumen": "\"Genial\"",
+              "frase": "Bello, original, temático y muy bien atendido. Personal muy amable y gentil. El restaurant excelente y el bar muy entretenido y con una vista imperdible"
+            }
+          ]
+    },
+    "soloHab": { "icono":"bed", "label":"Sólo la habitación" },
+    "caracteristicas": [ { "icono":"wifi", "label":"Internet" }, { "icono":"coffee", "label":"Desayuno" },
+                         { "icono":"car", "label":"Estacionamiento" }, { "icono":"paw", "label":"Permite mascotas" },
+                         { "icono":"unlock", "label":"Caja de seguridad" }, { "icono":"glass", "label":"Bar" } ],
+    "checkIn":"14:00 hs",
+    "checkOut":"11:00 hs",
+    "ubicacion": {
+      "latitud": 25.8442187,
+      "longitud": -80.1200793
+    }
+  },
+  {
+    "nombre": "Posh South Beach",
+    "rate": 5,
+    "precio": "ARS 1.778",
+    "imagen": "https://exp.cdn-hotels.com/hotels/6000000/5810000/5808300/5808205/5808205_14_z.jpg",
+    "direccion": "820 Collins Ave, Miami Beach, FL 33139, Estados Unidos",
+    "opiniones": {
+      "cantidad": 851,
+      "promedio": 5,
+      "ranking": 153,
+      "totalRanking": 1.807,
+      "categoria": "Hoteles en Miami",
+      "opiniones": [
+            {
+              "urlPerfil": "https://media-cdn.tripadvisor.com/media/photo-l/0f/91/c0/27/avatar.jpg",
+              "rate": 4,
+              "fecha": "05 may 2017",
+              "resumen": "\"Buen hotel\"",
+              "frase": "Estoy fascinado. . He tenido una excelente estancia en el Hotel Aria. La habitación impecable, el personal amable y una excelente ubicación"
+            }
+          ]
+    },
+    "soloHab": { "icono":"bed", "label":"Sólo la habitación" },
+    "caracteristicas": [ { "icono":"wifi", "label":"Internet" }, { "icono":"coffee", "label":"Desayuno" },
+                         { "icono":"car", "label":"Estacionamiento" }, { "icono":"paw", "label":"Permite mascotas" },
+                         { "icono":"unlock", "label":"Caja de seguridad" }, { "icono":"glass", "label":"Bar" } ],
+    "checkIn":"13:00 hs",
+    "checkOut":"11:00 hs",
+    "ubicacion": {
+      "latitud": 25.7785952,
+      "longitud": -80.1346439
+    }
+  },
+  {
+    "nombre": "Miccosukee Resort & Gaming",
+    "rate": 5,
+    "precio": "ARS 1.988",
+    "imagen": "http://res3.hoteltravel.com/usa/miami/hotels_resorts/mmimcc_r145464791807387100749_big.jpg",
+    "direccion": "500 SW 177th Ave, Miami, FL 33194, Estados Unidos",
+    "opiniones": {
+      "cantidad": 457,
+      "promedio": 5,
+      "ranking": 258,
+      "totalRanking": 1.807,
+      "categoria": "Hoteles en Miami",
+      "opiniones": [
+            {
+              "urlPerfil": "https://media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/a1/avatar.jpg",
+              "rate": 5,
+              "fecha": "11 nov 2016",
+              "resumen": "\"Un agradable hotel\"",
+              "frase": "El hotel es de ambientación musical con los huéspedes elegir su tipo de musical de la habitación. Elegimos clásico. La habitación era preciosa"
+            }
+          ]
+    },
+    "soloHab": { "icono":"bed", "label":"Sólo la habitación" },
+    "caracteristicas": [ { "icono":"wifi", "label":"Internet" }, { "icono":"coffee", "label":"Desayuno" },
+                         { "icono":"car", "label":"Estacionamiento" }, { "icono":"paw", "label":"Permite mascotas" },
+                         { "icono":"unlock", "label":"Caja de seguridad" }, { "icono":"glass", "label":"Bar" } ],
+    "checkIn":"13:00 hs",
+    "checkOut":"11:00 hs",
+    "ubicacion": {
+      "latitud": 25.7632789,
+      "longitud": -80.4866203
+    }
+  }
+]
