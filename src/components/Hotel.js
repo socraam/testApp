@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Text, Image, View, TouchableOpacity } from 'react-native';
+import { Text, Image, View, TouchableWithoutFeedback } from 'react-native';
 import Card from '../shared/Card';
 import CardSection from '../shared/CardSection';
 import Stars from '../shared/Stars';
@@ -11,7 +11,7 @@ class Hotel extends Component {
 
   render() {
     return (
-      <TouchableOpacity onPress={ () => Actions.hotelDetalle(this.props.hotel) }>
+      <TouchableWithoutFeedback onPress={ () => Actions.hotelDetalle(this.props.hotel) }>
         <View>
           <Card>
             <Image style={styles.imageStyle}
@@ -33,7 +33,7 @@ class Hotel extends Component {
             </View>
           </Card>
         </View>
-      </TouchableOpacity>
+      </TouchableWithoutFeedback>
     );
   }
 }
